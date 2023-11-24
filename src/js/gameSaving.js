@@ -1,5 +1,3 @@
-import './gameSavingLoader';
-
 export default class GameSaving {
   constructor(data) {
     this.id = data.id;
